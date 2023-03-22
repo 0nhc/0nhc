@@ -4,9 +4,9 @@
 * [depth_yolo](https://github.com/0nhc/depth_yolo)
 
 #### 🕹️ Tools
-![ROS](https://img.shields.io/badge/ROS-blue?style=for-the-badge&logo=ros)
-![Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-blue?style=for-the-badge&logo=nvidia)
-![CMake](https://img.shields.io/badge/CMake-blue?style=for-the-badge&logo=cmake)
+![ROS](https://img.shields.io/badge/ROS-purple?style=for-the-badge&logo=ros)
+![Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-purple?style=for-the-badge&logo=nvidia)
+![CMake](https://img.shields.io/badge/CMake-purple?style=for-the-badge&logo=cmake)
 
 #### 📟  Language and Profile
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=0nhc&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifuguan&layout=compact&theme=buefy&hide_border=true" /></a> |
