@@ -1,16 +1,25 @@
-### Hi there 👋
+#### 📌 Current Active Projects
 
-<!--
-**0nhc/0nhc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* [mini_pupper_ros](https://github.com/mangdangroboticsclub/mini_pupper_ros)
+* [depth_yolo](https://github.com/0nhc/depth_yolo)
 
-Here are some ideas to get you started:
+#### 🕹️ Tools
+![ROS](https://img.shields.io/badge/ROS-white?style=for-the-badge&logo=ros)
+![Isaac Sim](https://img.shields.io/badge/Omniverse-white?style=for-the-badge&logo=nvidia)
+![CMake](https://img.shields.io/badge/CMake-white?style=for-the-badge&logo=cmake)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📟  Language and Profile
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=0nhc&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifuguan&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### 📑 Top Repositories
+<a href="https://github.com/mangdangroboticsclub/mini_pupper_ros">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mangdangroboticsclub&repo=mini_pupper_ros&theme=buefy" />
+</a>
+<a href="https://github.com/0nhc/depth_yolo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0nhc&repo=depth_yolo&theme=buefy" />
+</a>
+
+
+
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=lifuguan.lifuguan)
