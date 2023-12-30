@@ -7,7 +7,7 @@
 - 🤔 I’m looking for a Master/PhD's position in 2024 Fall.
 
 #### 📑 Top Repositories
-<a href="https://github.com/mangdangroboticsclub/mini_pupper_ros">
+<a href="https://github.com/mangdangroboticsclub/mini_pupper_ros/tree/ros1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mangdangroboticsclub&repo=mini_pupper_ros&theme=buefy" />
 </a>
 <a href="https://github.com/0nhc/depth_yolo">
