@@ -1,10 +1,9 @@
 #### Hi there 👋, I'm Zhengxiao Han (韩 政霄), a robotics enthusiast.
 
-- 🔭 I got my Bachelor's degree from Beijing University of Chemical Technology (BUCT) in 2023.
-- 🌱 I used to work as a robotics engineer [@Mangdang Technology Co., Limited](https://github.com/mangdangroboticsclub).
-- 🌱 I used to work as a research intern [@DISCOVER Lab, AIR, Tsinghua University](https://github.com/AIR-DISCOVER).
-- ⚡ Now I'm a research assistant [@Hyperplane Lab, Peking University](https://github.com/hyperplane-lab).
-- 🤔 I’m looking for a Master/PhD's position in 2024 Fall.
+- 🤔 Incoming Master Student @Northwestern MSc in Robotics Program.
+- 🌱 Currently Research Assistant [@Hyperplane Lab, Peking University](https://github.com/hyperplane-lab). Robotics Engineer [@Mangdang Technology Co., Limited](https://github.com/mangdangroboticsclub).
+- 🔭 Prev research intern [@DISCOVER Lab, AIR, Tsinghua University](https://github.com/AIR-DISCOVER). B.Eng. from Beijing University of Chemical Technology (BUCT) (快跑，别来).
+- ⚡ Fun fact: I'm retard.
 
 #### 📑 Top Repositories
 <a href="https://github.com/0nhc/depth_yolo">
