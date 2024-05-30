@@ -1,7 +1,7 @@
 #### Hi there 👋, I'm Zhengxiao Han (韩 政霄), a robotics enthusiast.
 
 - 🔥 Incoming Master Student @Northwestern MSc in Robotics Program.
-- 🌱 Currently Research Assistant [@CFCS, Peking University](https://cfcs.pku.edu.cn/english).
+- 🌱 Currently Visiting Researcher [@CFCS, Peking University](https://cfcs.pku.edu.cn/english).
 - 🔭 Prev research intern [@DISCOVER Lab, AIR, Tsinghua University](https://github.com/AIR-DISCOVER).
 
 #### 📟  Language and Profile
