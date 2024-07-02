@@ -1,11 +1,6 @@
-#### Hi there 👋, I'm Zhengxiao Han (韩 政霄), a robotics enthusiast.
+#### Hi there 👋, I'm [Zhengxiao Han (韩 政霄)](https://hzx.blue), a robotics enthusiast.
 
-- 🔥 Incoming Master Student @Northwestern MSc in Robotics Program.
-- 🌱 Currently Visiting Researcher [@CFCS, Peking University](https://cfcs.pku.edu.cn/english).
+- 🔥 Incoming Master Student @Northwestern M.Sc. in Robotics Program.
+- 🌱 Currently Visiting Researcher [@PKU-Agibot (智元机器人) Lab, Peking University](https://zsdonghao.github.io/).
 - 🔭 Prev research intern [@DISCOVER Lab, AIR, Tsinghua University](https://github.com/AIR-DISCOVER).
-
-#### 📟  Language and Profile
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=0nhc&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifuguan&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=0nhc.0nhc)
+- 🤖 Core contributer to the open-source quadruped robot [Mini Pupper](https://www.kickstarter.com/projects/336477435/mini-pupper-open-sourceros-robot-dog-kit).
